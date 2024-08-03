@@ -1,2 +1,2 @@
-# PySpark
- This repo is for PySpark related contents
+# Data Engineering 
+ This repo is for Data Engineering related technology contents like PySpark, SQL etc.
